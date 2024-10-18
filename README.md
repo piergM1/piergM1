@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piergM1
-- 👀 I’m interested in pogramming 
+- 👀 I’m interested in programming 
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on software projects and data analysis
 - 📫 How to reach me pierre.guivar.m@uni.pe  feel free to send me a mail
